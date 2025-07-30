@@ -1,0 +1,19 @@
+Simple Expressibility Prediction Model
+=====================================
+
+P(expressible | number of ones):
+
+ 4 ones: 1.000
+ 5 ones: 1.000
+ 6 ones: 1.000
+ 7 ones: 1.000
+ 8 ones: 1.000
+ 9 ones: 0.885
+10 ones: 0.111
+11 ones: 0.000
+12 ones: 0.000
+13 ones: 0.000
+
+Rule of thumb:
+- 6-9 ones: Likely expressible (>80% probability)
+- 10-13 ones: Likely counterexample (>80% probability)

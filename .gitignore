@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Output files
+counterexamples_f2.txt
+expressible_f2.txt
+factorization_examples.txt
+*.pkl
+*.npy
+*.npz
+*.png
+
+# LaTeX
+*.aux
+*.log
+*.pdf
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.out
+*.toc
+*.bbl
+*.blg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
