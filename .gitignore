@@ -8,14 +8,14 @@ env/
 venv/
 .env
 
-# Output files
-counterexamples_f2.txt
-expressible_f2.txt
-factorization_examples.txt
-*.pkl
-*.npy
-*.npz
-*.png
+# Output files (keep for paper)
+# counterexamples_f2.txt
+# expressible_f2.txt
+# factorization_examples.txt
+# *.pkl
+# *.npy
+# *.npz
+# *.png
 
 # LaTeX
 *.aux

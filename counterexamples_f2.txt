@@ -1,0 +1,63 @@
+Found 5304 counterexamples over F_2
+
+First 10 counterexamples:
+
+Counterexample 1 (int=33215):
+[[1 1 1 1]
+ [1 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Counterexample 2 (int=33247):
+[[1 1 1 1]
+ [1 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Counterexample 3 (int=33275):
+[[1 1 0 1]
+ [1 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Counterexample 4 (int=33277):
+[[1 0 1 1]
+ [1 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Counterexample 5 (int=33471):
+[[1 1 1 1]
+ [1 1 0 1]
+ [0 1 0 0]
+ [0 0 0 1]]
+
+Counterexample 6 (int=33519):
+[[1 1 1 1]
+ [0 1 1 1]
+ [0 1 0 0]
+ [0 0 0 1]]
+
+Counterexample 7 (int=33531):
+[[1 1 0 1]
+ [1 1 1 1]
+ [0 1 0 0]
+ [0 0 0 1]]
+
+Counterexample 8 (int=33534):
+[[0 1 1 1]
+ [1 1 1 1]
+ [0 1 0 0]
+ [0 0 0 1]]
+
+Counterexample 9 (int=33759):
+[[1 1 1 1]
+ [1 0 1 1]
+ [1 1 0 0]
+ [0 0 0 1]]
+
+Counterexample 10 (int=33775):
+[[1 1 1 1]
+ [0 1 1 1]
+ [1 1 0 0]
+ [0 0 0 1]]
