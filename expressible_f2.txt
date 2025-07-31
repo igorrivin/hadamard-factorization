@@ -1,0 +1,603 @@
+Found 14856 expressible full-rank matrices over F_2
+
+First 100 expressible matrices:
+
+Expressible matrix 1 (int=58653):
+[[1 0 1 1]
+ [1 0 0 0]
+ [1 0 1 0]
+ [0 1 1 1]]
+
+Expressible matrix 2 (int=33060):
+[[0 0 1 0]
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 3 (int=33061):
+[[1 0 1 0]
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 4 (int=33062):
+[[0 1 1 0]
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 5 (int=33063):
+[[1 1 1 0]
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 6 (int=33068):
+[[0 0 1 1]
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 7 (int=33069):
+[[1 0 1 1]
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 8 (int=33070):
+[[0 1 1 1]
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 9 (int=33071):
+[[1 1 1 1]
+ [0 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 10 (int=33076):
+[[0 0 1 0]
+ [1 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 11 (int=33077):
+[[1 0 1 0]
+ [1 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 12 (int=33078):
+[[0 1 1 0]
+ [1 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 13 (int=33079):
+[[1 1 1 0]
+ [1 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 14 (int=33084):
+[[0 0 1 1]
+ [1 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 15 (int=33085):
+[[1 0 1 1]
+ [1 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 16 (int=33086):
+[[0 1 1 1]
+ [1 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 17 (int=33087):
+[[1 1 1 1]
+ [1 1 0 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 18 (int=33090):
+[[0 1 0 0]
+ [0 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 19 (int=33091):
+[[1 1 0 0]
+ [0 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 20 (int=33094):
+[[0 1 1 0]
+ [0 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 21 (int=33095):
+[[1 1 1 0]
+ [0 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 22 (int=33098):
+[[0 1 0 1]
+ [0 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 23 (int=33099):
+[[1 1 0 1]
+ [0 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 24 (int=45656):
+[[0 0 0 1]
+ [1 0 1 0]
+ [0 1 0 0]
+ [1 1 0 1]]
+
+Expressible matrix 25 (int=33102):
+[[0 1 1 1]
+ [0 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 26 (int=33103):
+[[1 1 1 1]
+ [0 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 27 (int=33106):
+[[0 1 0 0]
+ [1 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 28 (int=33107):
+[[1 1 0 0]
+ [1 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 29 (int=33110):
+[[0 1 1 0]
+ [1 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 30 (int=33111):
+[[1 1 1 0]
+ [1 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 31 (int=33114):
+[[0 1 0 1]
+ [1 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 32 (int=33115):
+[[1 1 0 1]
+ [1 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 33 (int=33118):
+[[0 1 1 1]
+ [1 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 34 (int=33119):
+[[1 1 1 1]
+ [1 0 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 35 (int=33122):
+[[0 1 0 0]
+ [0 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 36 (int=33123):
+[[1 1 0 0]
+ [0 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 37 (int=33124):
+[[0 0 1 0]
+ [0 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 38 (int=33125):
+[[1 0 1 0]
+ [0 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 39 (int=33130):
+[[0 1 0 1]
+ [0 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 40 (int=33131):
+[[1 1 0 1]
+ [0 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 41 (int=33132):
+[[0 0 1 1]
+ [0 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 42 (int=33133):
+[[1 0 1 1]
+ [0 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 43 (int=33138):
+[[0 1 0 0]
+ [1 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 44 (int=33139):
+[[1 1 0 0]
+ [1 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 45 (int=33140):
+[[0 0 1 0]
+ [1 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 46 (int=33141):
+[[1 0 1 0]
+ [1 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 47 (int=33146):
+[[0 1 0 1]
+ [1 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 48 (int=33147):
+[[1 1 0 1]
+ [1 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 49 (int=33148):
+[[0 0 1 1]
+ [1 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 50 (int=33149):
+[[1 0 1 1]
+ [1 1 1 0]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 51 (int=33188):
+[[0 0 1 0]
+ [0 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 52 (int=33189):
+[[1 0 1 0]
+ [0 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 53 (int=33190):
+[[0 1 1 0]
+ [0 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 54 (int=33191):
+[[1 1 1 0]
+ [0 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 55 (int=33196):
+[[0 0 1 1]
+ [0 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 56 (int=33197):
+[[1 0 1 1]
+ [0 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 57 (int=33198):
+[[0 1 1 1]
+ [0 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 58 (int=33199):
+[[1 1 1 1]
+ [0 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 59 (int=33204):
+[[0 0 1 0]
+ [1 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 60 (int=33205):
+[[1 0 1 0]
+ [1 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 61 (int=33206):
+[[0 1 1 0]
+ [1 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 62 (int=33207):
+[[1 1 1 0]
+ [1 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 63 (int=33212):
+[[0 0 1 1]
+ [1 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 64 (int=33213):
+[[1 0 1 1]
+ [1 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 65 (int=33214):
+[[0 1 1 1]
+ [1 1 0 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 66 (int=33218):
+[[0 1 0 0]
+ [0 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 67 (int=33219):
+[[1 1 0 0]
+ [0 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 68 (int=33222):
+[[0 1 1 0]
+ [0 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 69 (int=33223):
+[[1 1 1 0]
+ [0 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 70 (int=33226):
+[[0 1 0 1]
+ [0 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 71 (int=33227):
+[[1 1 0 1]
+ [0 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 72 (int=33230):
+[[0 1 1 1]
+ [0 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 73 (int=33231):
+[[1 1 1 1]
+ [0 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 74 (int=33234):
+[[0 1 0 0]
+ [1 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 75 (int=33235):
+[[1 1 0 0]
+ [1 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 76 (int=33238):
+[[0 1 1 0]
+ [1 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 77 (int=33239):
+[[1 1 1 0]
+ [1 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 78 (int=33242):
+[[0 1 0 1]
+ [1 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 79 (int=33243):
+[[1 1 0 1]
+ [1 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 80 (int=33246):
+[[0 1 1 1]
+ [1 0 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 81 (int=33250):
+[[0 1 0 0]
+ [0 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 82 (int=33251):
+[[1 1 0 0]
+ [0 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 83 (int=33252):
+[[0 0 1 0]
+ [0 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 84 (int=33253):
+[[1 0 1 0]
+ [0 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 85 (int=33258):
+[[0 1 0 1]
+ [0 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 86 (int=33259):
+[[1 1 0 1]
+ [0 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 87 (int=33260):
+[[0 0 1 1]
+ [0 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 88 (int=33261):
+[[1 0 1 1]
+ [0 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 89 (int=33266):
+[[0 1 0 0]
+ [1 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 90 (int=33267):
+[[1 1 0 0]
+ [1 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 91 (int=33268):
+[[0 0 1 0]
+ [1 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 92 (int=33269):
+[[1 0 1 0]
+ [1 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 93 (int=33274):
+[[0 1 0 1]
+ [1 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 94 (int=33276):
+[[0 0 1 1]
+ [1 1 1 1]
+ [1 0 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 95 (int=33300):
+[[0 0 1 0]
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 96 (int=33301):
+[[1 0 1 0]
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 97 (int=33302):
+[[0 1 1 0]
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 98 (int=33303):
+[[1 1 1 0]
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 99 (int=33308):
+[[0 0 1 1]
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 0 1]]
+
+Expressible matrix 100 (int=33309):
+[[1 0 1 1]
+ [1 0 0 0]
+ [0 1 0 0]
+ [0 0 0 1]]
