@@ -192,7 +192,7 @@ The number of ones in a $4 \times 4$ binary matrix predicts $(2,2)$-Hadamard exp
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.8\textwidth]{../ones_analysis_detailed.png}
+\includegraphics[width=0.8\textwidth]{ones_analysis_detailed.png}
 \caption{Distribution of matrix density for expressible matrices vs. counterexamples. The clear separation at 10 ones provides a simple yet powerful classification rule.}
 \end{figure}
 
@@ -208,7 +208,7 @@ Expressible $4 \times 4$ binary matrices lie on an approximately 10-dimensional 
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.8\textwidth]{../autoencoder_dimension_analysis.png}
+\includegraphics[width=0.8\textwidth]{autoencoder_dimension_analysis.png}
 \caption{Reconstruction error vs. latent dimension for autoencoders trained on expressible matrices and counterexamples. Expressible matrices achieve low reconstruction error with just 10 dimensions, while counterexamples require 14+ dimensions.}
 \end{figure}
 
@@ -220,7 +220,7 @@ Dimensionality reduction via UMAP reveals the distinct geometric structure of th
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.8\textwidth]{../umap.png}
+\includegraphics[width=0.8\textwidth]{umap.png}
 \caption{UMAP projection of all 20,160 full-rank matrices. Expressible matrices (blue) form a more structured, lower-dimensional manifold compared to counterexamples (red).}
 \end{figure}
 
@@ -249,7 +249,7 @@ An autoencoder-based classifier achieves 82\% AUC in distinguishing expressible 
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.8\textwidth]{../autoencoder_classifier.png}
+\includegraphics[width=0.8\textwidth]{autoencoder_classifier.png}
 \caption{Left: Distribution of reconstruction error differences. Right: ROC curve showing 82\% AUC. The classifier works by comparing reconstruction quality from autoencoders trained on each class.}
 \end{figure}
 
